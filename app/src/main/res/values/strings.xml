@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneDialer</string>
+    <string name="call">Call</string>
+    <string name="contacts">Contacts</string>
+</resources>
